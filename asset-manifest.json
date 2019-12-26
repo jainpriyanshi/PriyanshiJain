@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.baa5c3a9.chunk.css",
-    "main.js": "/static/js/main.d7a0fdf2.chunk.js",
-    "main.js.map": "/static/js/main.d7a0fdf2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c7cc6e23.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c7cc6e23.js.map",
-    "static/js/2.5d4da285.chunk.js": "/static/js/2.5d4da285.chunk.js",
-    "static/js/2.5d4da285.chunk.js.map": "/static/js/2.5d4da285.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c08fddd04a3ac84475cc78bae212ea1c.js": "/precache-manifest.c08fddd04a3ac84475cc78bae212ea1c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.baa5c3a9.chunk.css.map": "/static/css/main.baa5c3a9.chunk.css.map",
-    "static/js/2.5d4da285.chunk.js.LICENSE": "/static/js/2.5d4da285.chunk.js.LICENSE",
-    "static/media/B18CSE042.pdf": "/static/media/B18CSE042.626a7583.pdf",
-    "static/media/about.jpg": "/static/media/about.af546ce5.jpg",
-    "static/media/contact.jpg": "/static/media/contact.9792880c.jpg",
-    "static/media/priyanshi.jpeg": "/static/media/priyanshi.44648b73.jpeg"
+    "main.css": "/PriyanshiJain/static/css/main.baa5c3a9.chunk.css",
+    "main.js": "/PriyanshiJain/static/js/main.1bb15239.chunk.js",
+    "main.js.map": "/PriyanshiJain/static/js/main.1bb15239.chunk.js.map",
+    "runtime-main.js": "/PriyanshiJain/static/js/runtime-main.4a08ae99.js",
+    "runtime-main.js.map": "/PriyanshiJain/static/js/runtime-main.4a08ae99.js.map",
+    "static/js/2.5d4da285.chunk.js": "/PriyanshiJain/static/js/2.5d4da285.chunk.js",
+    "static/js/2.5d4da285.chunk.js.map": "/PriyanshiJain/static/js/2.5d4da285.chunk.js.map",
+    "index.html": "/PriyanshiJain/index.html",
+    "precache-manifest.0a79f21145a372fc1ff017424f2e6ad2.js": "/PriyanshiJain/precache-manifest.0a79f21145a372fc1ff017424f2e6ad2.js",
+    "service-worker.js": "/PriyanshiJain/service-worker.js",
+    "static/css/main.baa5c3a9.chunk.css.map": "/PriyanshiJain/static/css/main.baa5c3a9.chunk.css.map",
+    "static/js/2.5d4da285.chunk.js.LICENSE": "/PriyanshiJain/static/js/2.5d4da285.chunk.js.LICENSE",
+    "static/media/B18CSE042.pdf": "/PriyanshiJain/static/media/B18CSE042.626a7583.pdf",
+    "static/media/about.jpg": "/PriyanshiJain/static/media/about.af546ce5.jpg",
+    "static/media/contact.jpg": "/PriyanshiJain/static/media/contact.9792880c.jpg",
+    "static/media/priyanshi.jpeg": "/PriyanshiJain/static/media/priyanshi.44648b73.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7cc6e23.js",
+    "static/js/runtime-main.4a08ae99.js",
     "static/js/2.5d4da285.chunk.js",
     "static/css/main.baa5c3a9.chunk.css",
-    "static/js/main.d7a0fdf2.chunk.js"
+    "static/js/main.1bb15239.chunk.js"
   ]
 }
