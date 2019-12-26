@@ -1,0 +1,53 @@
+.hello {
+  font-family: 'helvetica';
+  margin-top: 15%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.mail{
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.logoalign{
+    margin-top: 1%;
+    margin-left: 25%
+}
+.cardimg{
+    width: 40%;
+    margin-left: 30%;
+    border-radius: 50%;
+}
+.img1 {
+    width:10%;
+}
+.img2 {
+    width:3%;
+}
+.img3 {
+    margin-left: 3%;
+    width:4%;
+}
+.text{
+    font-family: 'helvetica';
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.center
+{
+    margin-left: 23%;
+    margin-right: 23%;
+}
+.link {
+    position: relative;
+    color: white;
+    font-family: 'helvetica';
+    margin-left: 3%;
+    font-size: 120%;
+    text-decoration: underline;
+}
+.button{
+    margin-left: 30%;
+    margin-top: 2%;
+}
