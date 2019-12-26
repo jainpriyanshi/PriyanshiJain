@@ -22,7 +22,7 @@ export default class Landing extends Component {
                 <div class= "center">
                 <Link class= "link" to='/contact'>Contact</Link>
                 <Link class= "link" to='/about'>AboutMe</Link>
-                <a class= "link"  href= {require('./B18CSE042.pdf')}>
+                <a class= "link"  href= {require('./PriyanshiJain.pdf')}>
                 Resume
                 </a>
                 </div>

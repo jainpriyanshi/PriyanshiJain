@@ -14,7 +14,7 @@ export default class contact extends Component {
     render() {
         return (
             <div style= {sectionStyle}>
-                <h1 class = "hello"> Contact Me ;)</h1>
+                <h2 class = "hello"> Contact Me </h2>
                 <p class = "mail"> jain.23@iitj.ac.in</p>
                 <div class="logoalign">
                 <a href= "https://github.com/jainpriyanshi" >
