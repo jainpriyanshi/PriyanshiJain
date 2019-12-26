@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PriyanshiJain/static/css/main.baa5c3a9.chunk.css",
-    "main.js": "/PriyanshiJain/static/js/main.7ed564f4.chunk.js",
-    "main.js.map": "/PriyanshiJain/static/js/main.7ed564f4.chunk.js.map",
+    "main.css": "/PriyanshiJain/static/css/main.2fb56ad9.chunk.css",
+    "main.js": "/PriyanshiJain/static/js/main.e2040881.chunk.js",
+    "main.js.map": "/PriyanshiJain/static/js/main.e2040881.chunk.js.map",
     "runtime-main.js": "/PriyanshiJain/static/js/runtime-main.4a08ae99.js",
     "runtime-main.js.map": "/PriyanshiJain/static/js/runtime-main.4a08ae99.js.map",
     "static/js/2.6ba05d98.chunk.js": "/PriyanshiJain/static/js/2.6ba05d98.chunk.js",
     "static/js/2.6ba05d98.chunk.js.map": "/PriyanshiJain/static/js/2.6ba05d98.chunk.js.map",
     "index.html": "/PriyanshiJain/index.html",
-    "precache-manifest.2219469e6b63017886243b31183096c8.js": "/PriyanshiJain/precache-manifest.2219469e6b63017886243b31183096c8.js",
+    "precache-manifest.cb0c972689d9beb19171a09f841f9142.js": "/PriyanshiJain/precache-manifest.cb0c972689d9beb19171a09f841f9142.js",
     "service-worker.js": "/PriyanshiJain/service-worker.js",
-    "static/css/main.baa5c3a9.chunk.css.map": "/PriyanshiJain/static/css/main.baa5c3a9.chunk.css.map",
+    "static/css/main.2fb56ad9.chunk.css.map": "/PriyanshiJain/static/css/main.2fb56ad9.chunk.css.map",
     "static/js/2.6ba05d98.chunk.js.LICENSE": "/PriyanshiJain/static/js/2.6ba05d98.chunk.js.LICENSE",
     "static/media/PriyanshiJain.pdf": "/PriyanshiJain/static/media/PriyanshiJain.7dc1b75f.pdf",
     "static/media/about.jpg": "/PriyanshiJain/static/media/about.af546ce5.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.4a08ae99.js",
     "static/js/2.6ba05d98.chunk.js",
-    "static/css/main.baa5c3a9.chunk.css",
-    "static/js/main.7ed564f4.chunk.js"
+    "static/css/main.2fb56ad9.chunk.css",
+    "static/js/main.e2040881.chunk.js"
   ]
 }
