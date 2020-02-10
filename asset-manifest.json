@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/PriyanshiJain/static/css/main.2fb56ad9.chunk.css",
-    "main.js": "/PriyanshiJain/static/js/main.6c65fe44.chunk.js",
-    "main.js.map": "/PriyanshiJain/static/js/main.6c65fe44.chunk.js.map",
+    "main.js": "/PriyanshiJain/static/js/main.467fe27e.chunk.js",
+    "main.js.map": "/PriyanshiJain/static/js/main.467fe27e.chunk.js.map",
     "runtime-main.js": "/PriyanshiJain/static/js/runtime-main.4a08ae99.js",
     "runtime-main.js.map": "/PriyanshiJain/static/js/runtime-main.4a08ae99.js.map",
     "static/js/2.6ba05d98.chunk.js": "/PriyanshiJain/static/js/2.6ba05d98.chunk.js",
     "static/js/2.6ba05d98.chunk.js.map": "/PriyanshiJain/static/js/2.6ba05d98.chunk.js.map",
     "index.html": "/PriyanshiJain/index.html",
-    "precache-manifest.0a7aca4a25f54272845591408bc4e584.js": "/PriyanshiJain/precache-manifest.0a7aca4a25f54272845591408bc4e584.js",
+    "precache-manifest.67d5d4a8c48a91c03158ab603130b983.js": "/PriyanshiJain/precache-manifest.67d5d4a8c48a91c03158ab603130b983.js",
     "service-worker.js": "/PriyanshiJain/service-worker.js",
     "static/css/main.2fb56ad9.chunk.css.map": "/PriyanshiJain/static/css/main.2fb56ad9.chunk.css.map",
     "static/js/2.6ba05d98.chunk.js.LICENSE": "/PriyanshiJain/static/js/2.6ba05d98.chunk.js.LICENSE",
-    "static/media/PriyanshiJain.pdf": "/PriyanshiJain/static/media/PriyanshiJain.3046bc56.pdf",
+    "static/media/PriyanshiJain.pdf": "/PriyanshiJain/static/media/PriyanshiJain.2f5696a2.pdf",
     "static/media/about.jpg": "/PriyanshiJain/static/media/about.af546ce5.jpg",
     "static/media/contact.jpg": "/PriyanshiJain/static/media/contact.9792880c.jpg",
     "static/media/priyanshi.jpeg": "/PriyanshiJain/static/media/priyanshi.44648b73.jpeg"
@@ -21,6 +21,6 @@
     "static/js/runtime-main.4a08ae99.js",
     "static/js/2.6ba05d98.chunk.js",
     "static/css/main.2fb56ad9.chunk.css",
-    "static/js/main.6c65fe44.chunk.js"
+    "static/js/main.467fe27e.chunk.js"
   ]
 }

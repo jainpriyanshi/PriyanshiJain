@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed8f8c9a195b0bf4d7c8c9b718e0da16",
+    "revision": "1f3cd8d3a2ff78bc96685edd9c3accf7",
     "url": "/PriyanshiJain/index.html"
   },
   {
-    "revision": "ad2d12b429dab1638ba4",
+    "revision": "347adae033c832c4dec1",
     "url": "/PriyanshiJain/static/css/main.2fb56ad9.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PriyanshiJain/static/js/2.6ba05d98.chunk.js.LICENSE"
   },
   {
-    "revision": "ad2d12b429dab1638ba4",
-    "url": "/PriyanshiJain/static/js/main.6c65fe44.chunk.js"
+    "revision": "347adae033c832c4dec1",
+    "url": "/PriyanshiJain/static/js/main.467fe27e.chunk.js"
   },
   {
     "revision": "02677bbd79858c5fcda4",
     "url": "/PriyanshiJain/static/js/runtime-main.4a08ae99.js"
   },
   {
-    "revision": "3046bc56c7517adc4e93db7482da05e8",
-    "url": "/PriyanshiJain/static/media/PriyanshiJain.3046bc56.pdf"
+    "revision": "2f5696a20cb524325ae677c090be9546",
+    "url": "/PriyanshiJain/static/media/PriyanshiJain.2f5696a2.pdf"
   },
   {
     "revision": "af546ce573722addb4406b068256c2f2",
