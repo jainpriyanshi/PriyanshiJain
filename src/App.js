@@ -1,16 +1,21 @@
 import React from 'react';
-import { HashRouter, Route } from "react-router-dom";
-import Landing from './components/Landing.jsx';
+import Typist from './components/typist';
+import About from './components/about';
+import Project from './components/project';
+import Footer from './components/footer';
+import Navbar from './components/navbar';
 import Contact from './components/contact'
-import AboutMe from './components/AboutMe'
-
+import { BrowserRouter as Router,HashRouter, Route } from "react-router-dom";
 function App() {
   return (
     <div>
-        <HashRouter basename="/">
-            <Route exact path="/" component={Landing} />
+       <HashRouter>       		
+       		<Navbar />
+            <Route exact path="/" component={Typist} />
+            <Route exact path="/about" component={About} />
+            <Route exact path="/project" component={Project} />
             <Route exact path="/contact" component={Contact} />
-            <Route exact path="/about" component={AboutMe} />
+            <Footer />
         </HashRouter>
     </div>
   );
